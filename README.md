@@ -1,4 +1,4 @@
-# ✨   ✨
+# ✨NATURAL SKINCARE AND BEAUTY   ✨
 
 This is a web based application developed for health related telugu based website in india
 
@@ -17,7 +17,7 @@ This is a web based application developed for health related telugu based websit
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
-## Screenshots
+## Home-
 
  
 
