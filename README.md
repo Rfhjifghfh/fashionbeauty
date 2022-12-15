@@ -49,6 +49,14 @@ This is a web based application developed for health related telugu based websit
 ![gallery2](https://user-images.githubusercontent.com/117892449/207825891-c5fb81b2-b1db-4a68-bc63-95c109211083.png)
 
 
+
+### Health Bot -
+![HealthBot](https://user-images.githubusercontent.com/117892449/207826138-65cdaf1d-a67e-4cf7-85fc-a12249829f4d.png)
+
+
+
+### Contact Us -
+
 ## Tech Stack 💻
 
 - [Azure(Hosting)]
