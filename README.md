@@ -44,7 +44,9 @@ This is a web based application developed for health related telugu based websit
 
 
 
-
+### Gallery -
+![gallery1](https://user-images.githubusercontent.com/117892449/207825876-8a29cdb8-7d0f-4e57-bcbc-af56404fc82f.png)
+![gallery2](https://user-images.githubusercontent.com/117892449/207825891-c5fb81b2-b1db-4a68-bc63-95c109211083.png)
 
 
 ## Tech Stack 💻
