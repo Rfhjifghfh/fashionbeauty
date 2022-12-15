@@ -7,6 +7,13 @@ This is a web based application developed for health related telugu based websit
 
 **Project Link** - 
 
+**Project Demo Link**-
+
+
+
+AZURE techonolgy used for Project-
+STATIC WEB APPS
+HWALTH BOT
 
 ## Features and Functionalities 😃
 
