@@ -29,13 +29,15 @@ This is a web based application developed for health related telugu based websit
    
 
 ### About Us -
+![about1](https://user-images.githubusercontent.com/117892449/207825306-09c96fdc-dfdd-4ba5-8d00-98b1468b0d71.png)
+![about2](https://user-images.githubusercontent.com/117892449/207825312-4aca67a7-7a58-4611-95b1-5b5c9556b307.png)
+![about3](https://user-images.githubusercontent.com/117892449/207825317-636145ad-8aa0-44eb-ab2e-9e9bf5a63353.png)
 
 
 
 
 
-
-### Privacy policy -
+### Blog Page -
 
 
 
