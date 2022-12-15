@@ -38,6 +38,9 @@ This is a web based application developed for health related telugu based websit
 
 
 ### Blog Page -
+![blog page1](https://user-images.githubusercontent.com/117892449/207825548-e495c996-23dd-4a39-a530-ffe72f2c8b48.png)
+![blogpage2](https://user-images.githubusercontent.com/117892449/207825565-9166ecf5-23c9-49a7-902c-9649be45ca2a.png)
+![blogpage3](https://user-images.githubusercontent.com/117892449/207825573-79bf3fe3-7424-4076-ac90-ab3a91bd657a.png)
 
 
 
